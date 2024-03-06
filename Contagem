@@ -1,0 +1,13 @@
+% Solicita ao usuário para digitar um número
+numero = input('Digite um número inteiro: ');
+
+% Verifica se o número digitado é um inteiro positivo
+if numero <= 0 || rem(numero, 1) ~= 0
+    disp('Por favor, digite um número inteiro positivo.');
+else
+    % Loop para contar de 1 até o número digitado
+    disp('Contagem:');
+    for i = 1:numero
+        disp(i);
+    end
+end
