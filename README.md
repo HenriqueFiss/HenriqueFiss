@@ -35,19 +35,6 @@
 
 <BR>
   
-<h2 align="center">Contact links and other personal stuff. Have fun!</h2>
-<div align="center"> 
-  <a href="mailto:vinigperuzzi@hotmail.com?" target='_blank'><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href = "mailto:vgperuzzi@inf.ufpel.edu.br?" target='_blank'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/vinigperuzzi/" target='_blank'><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vinícius-garcia-peruzzi-b69a16248/" target='_blank'><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://steamcommunity.com/id/Vinigperuzzi" target='_blank'><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-</div>
-
-  <BR><BR>
-
-  [![Vinigperuzzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinigperuzzi&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinigperuzzi&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
