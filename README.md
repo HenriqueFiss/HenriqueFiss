@@ -1,41 +1,4 @@
-### Hi there! I'm Vinigperuzzi, be welcome to my Github page!!
 
-- 🖥️ I'm currently working on my graduation on UFPel
-- 🤖 I’m currently learning lots of tools and frameworks of many languages, and other interesting stuff on my own!
-- 📫 How to reach me: On institutional e-mail: vgperuzzi@inf.ufpel.edu.br<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;On personal e-mail: vinigperuzzi@hotmail.com
-- 🌐  Visit my <a href='https://vinigperuzzi.github.io/PersonalPage/' target='_blank'>Personal Page</a>. There's a portfolio there.
-
-<!--div align="center">
-  <a href="https://github.com/Vinigperuzzi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinigperuzzi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinigperuzzi&layout=compact&langs_count=7&theme=gotham"/>
-</div-->
-
-  <!--div align="center">
-  <a href="https://github.com/Vinigperuzzi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinigperuzzi&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinigperuzzi&layout=compact&langs_count=7&theme=light"/>
-</div-->
-
-### Proficiency:
-As a developer, my skill set is centered around the powerful Ruby on Rails stack. I am habituated to concepts of Extreme Programming (XP) principles, such as pair programming, test-driven development (TDD), and feature branching.
-I also have some experience using git and github flow used as team.
-
-Besides my courses of ruby on rails on udemy, I'm pround to declare that i participated in class 12 of the program Treinadev at <a href="https://www.campuscode.com.br" target='_blank'>Campus Code</a>.
-
-### About me:
-Welcome to my universe of codes, where creativity and passion for programming intertwine!
-
-Explore the nuances of my code and discover solutions that transcend challenges. These repositories are more than just stores of code; They are digital expressions of my dedication to programming and the relentless pursuit of technical excellence.
-
-Feel free to browse, explore and, perhaps, be inspired. Whether you're a curious developer, a potential contributor, or just someone looking for interesting projects, this is the right place to be.
-
-Get ready for an exciting journey through my world of lines of code, and if at any point I made you feel inspired, tell me about it, I love talking about technology and expanding my network.
-
-Happy coding! 🌐💻🧙‍♂️
-
----
 
 <h2 align="center">Some languages, technologies and frameworks that I studied or am studying:</h2>
   
